@@ -17,9 +17,9 @@ namespace KolkoKrzyzyk
                 { '7', '8', '9' }
             };
 
-            Console.Write("Wpisz imie gracza A: ");
+            Console.Write("Wpisz imie gracza A:  ");
             imieGraczaA = Console.ReadLine();
-            Console.Write("Wpisz imie gracza B: ");
+            Console.Write("Wpisz imie gracza B:  ");
             imieGraczaB = Console.ReadLine();
 
             // ...
